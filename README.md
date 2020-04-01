@@ -4,9 +4,9 @@ My accepted leetcode solutions to some of the common interview problems.
 
 #### [Array](problems/src/array)
 
-- [Pascals Traiangle II](problems/src/array/PascalsTriangle.java) (Easy)
-- [Product Of Array Except Self](problems/src/array/ProductOfArrayExceptSelf.java) (Medium)
-- [Rotate Matrix](problems/src/array/RotateMatrix.java) (Medium)
+- [Pascals Traiangle II](problems/src/array/PascalsTriangle.java) (Easy) solved 
+- [Product Of Array Except Self](problems/src/array/ProductOfArrayExceptSelf.java) (Medium)solved
+- [Rotate Matrix](problems/src/array/RotateMatrix.java) (Medium) pending
 - [Set Matrix Zeroes](problems/src/array/SetMatrixZeroes.java) (Medium)
 - [Third Maximum Number](problems/src/array/ThirdMaximumNumber.java) (Easy)
 - [Two Sum](problems/src/array/TwoSum.java) (Easy)
