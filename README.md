@@ -8,6 +8,9 @@ My accepted leetcode solutions to some of the common interview problems.
 - [Product Of Array Except Self](problems/src/array/ProductOfArrayExceptSelf.java) (Medium)solved
 - [Rotate Matrix](problems/src/array/RotateMatrix.java) (Medium) pending
 - [Set Matrix Zeroes](problems/src/array/SetMatrixZeroes.java) (Medium)
+
+The key point is how to minimize the space complexity
+
 - [Third Maximum Number](problems/src/array/ThirdMaximumNumber.java) (Easy)
 - [Two Sum](problems/src/array/TwoSum.java) (Easy)
 - [TwoSum II](problems/src/array/TwoSumII.java) (Easy)
