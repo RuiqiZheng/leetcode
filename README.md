@@ -16,6 +16,9 @@ The key point is how to minimize the space complexity
 - [TwoSum II](problems/src/array/TwoSumII.java) (Easy)
 - [Can Place Flowers](problems/src/array/CanPlaceFlowers.java) (Easy)
 - [Merge Intervals](problems/src/array/MergeIntervals.java) (Medium)
+
+turn arraylist into array: merged.toArray(new int[merged.size()][2]);
+
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [First Missing Positive](problems/src/array/FirstMissingPositive.java) (Hard)
 - [Fruit Into Baskets](problems/src/array/FruitIntoBaskets.java) (Medium)
 - [MaxProduct Of Three Numbers](problems/src/array/MaxProductOfThreeNumbers.java) (Easy)
