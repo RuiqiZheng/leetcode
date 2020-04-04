@@ -29,17 +29,11 @@ How to slove it with stack?
 in case of overflow  
 ```
 int missingNumber(vector<int>& nums) {
-
-    int result = 0;
-    
-    for (int i = 0; i < nums.size(); ++i) {
-    
+    int result = 0
+    for (int i = 0; i < nums.size(); ++i) 
         result += (i+1)-nums[i];
-        
     }
-    
     return result;
-    
 }
 ``` 
 - [Merge Sorted Array](problems/src/array/MergeSortedArray.java) (Easy)
