@@ -28,11 +28,19 @@ How to slove it with stack?
 - [Missing Number](problems/src/array/MissingNumber.java) (Easy)  
 in case of overflow  
 #```
-@Override  
-protected void onDestroy() {  
-    EventBus.getDefault().unregister(this);  
-    super.onDestroy();  
-}  
+int missingNumber(vector<int>& nums) {
+
+    int result = 0;
+    
+    for (int i = 0; i < nums.size(); ++i) {
+    
+        result += (i+1)-nums[i];
+        
+    }
+    
+    return result;
+    
+}
 #``` 
 - [Merge Sorted Array](problems/src/array/MergeSortedArray.java) (Easy)
 - [Rotate Array](problems/src/array/RotateArray.java) (Easy)
