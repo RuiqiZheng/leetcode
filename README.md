@@ -21,8 +21,21 @@ turn arraylist into array: merged.toArray(new int[merged.size()][2]);
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [First Missing Positive](problems/src/array/FirstMissingPositive.java) (Hard)
 - [Fruit Into Baskets](problems/src/array/FruitIntoBaskets.java) (Medium)
+
+How to slove it with stack?
+
 - [MaxProduct Of Three Numbers](problems/src/array/MaxProductOfThreeNumbers.java) (Easy)
-- [Missing Number](problems/src/array/MissingNumber.java) (Easy)
+- [Missing Number](problems/src/array/MissingNumber.java) (Easy)  
+in case of overflow 
+#```
+int missingNumber(vector<int>& nums) {
+    int result = 0;
+    for (int i = 0; i < nums.size(); ++i) {
+        result += (i+1)-nums[i];
+    }
+    return result;
+}
+#```
 - [Merge Sorted Array](problems/src/array/MergeSortedArray.java) (Easy)
 - [Rotate Array](problems/src/array/RotateArray.java) (Easy)
 - [Sort Colors](problems/src/array/SortColors.java) (Medium)
