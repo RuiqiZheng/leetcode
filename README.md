@@ -27,7 +27,7 @@ How to slove it with stack?
 - [MaxProduct Of Three Numbers](problems/src/array/MaxProductOfThreeNumbers.java) (Easy)
 - [Missing Number](problems/src/array/MissingNumber.java) (Easy)  
 in case of overflow  
-#```
+```
 int missingNumber(vector<int>& nums) {
 
     int result = 0;
@@ -41,7 +41,7 @@ int missingNumber(vector<int>& nums) {
     return result;
     
 }
-#``` 
+``` 
 - [Merge Sorted Array](problems/src/array/MergeSortedArray.java) (Easy)
 - [Rotate Array](problems/src/array/RotateArray.java) (Easy)
 - [Sort Colors](problems/src/array/SortColors.java) (Medium)
