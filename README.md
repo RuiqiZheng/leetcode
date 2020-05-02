@@ -39,7 +39,7 @@ int missingNumber(vector<int>& nums) {
 - [Merge Sorted Array](problems/src/array/MergeSortedArray.java) (Easy)
 - [Rotate Array](problems/src/array/RotateArray.java) (Easy)
 - [Sort Colors](problems/src/array/SortColors.java) (Medium)
-- [Battleships in a Board](problems/src/array/BattleshipsInABoard.java) (Medium)
+- [Battleships in a Board](problems/src/array/BattleshipsInABoard.java) (Medium) sloved
 - [Find the Celebrity](problems/src/array/FindTheCelebrity.java) (Medium)
 - [Meeting Rooms](problems/src/array/MeetingRooms.java) (Easy)
 - [Longest Continuous Increasing Subsequence](problems/src/array/LongestIncreasingSubsequence.java) (Easy)
